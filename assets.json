@@ -1,0 +1,29 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D rounded square tile with a teal curved pipe channel and one amber sphere resting in it, centered, pale blue radial gradient background, crisp, no text, no scene, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, deep midnight ocean blue, soft flowing current streaks, heavy vignette, dark, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, pale ice blue water surface with soft geometric channel arcs, clean, airy, bright, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, very light blurred blue water, low contrast for UI overlay, soft, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game results background, light blue to mint gradient with soft radial glow, calm, no text, no UI elements"
+    }
+  ]
+}

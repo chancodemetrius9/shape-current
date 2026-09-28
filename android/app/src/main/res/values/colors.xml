@@ -1,0 +1,5 @@
+<resources>
+    <!-- Deep-water splash so the pre-RN window matches the in-app loader
+         instead of flashing white (or black) before the JS bundle boots. -->
+    <color name="splashBackground">#012A45</color>
+</resources>
